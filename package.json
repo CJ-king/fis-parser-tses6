@@ -1,0 +1,20 @@
+{
+  "name": "fis-parser-tses6",
+  "version": "1.0.2",
+  "description": "Fis-plus project JS file ES6 to ES5",
+  "main": "./translate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jinchangjiang(1003219989@qq.com)",
+  "license": "MIT",
+  "keywords": [
+    "fisp",
+    "translate",
+    "ES6",
+    "ES5"
+  ],
+  "dependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
