@@ -1,6 +1,6 @@
 {
   "name": "fis-parser-tses6",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Fis-plus project JS file ES6 to ES5",
   "main": "./translate.js",
   "scripts": {
